@@ -31,7 +31,7 @@
 - Explicam como **montar objetos** em estruturas maiores.
 - Explicam como **montar classes** em estruturas maiores.
 - Mantém as estruturas **flexíveis.**
-- Mantém as estruturas ** eficientes. **
+- Mantém as estruturas **eficientes.**
 
 ## Padrões Comportamentais
 **Quais as carateristicas dos padrões comportamentais?**
