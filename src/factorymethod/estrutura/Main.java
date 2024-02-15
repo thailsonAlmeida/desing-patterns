@@ -1,4 +1,4 @@
-package desingpatterns.factorymethod.estrutura;
+package factorymethod.estrutura;
 
 public class Main {
 	public static void main(String[] args) {		

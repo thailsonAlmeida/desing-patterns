@@ -1,4 +1,4 @@
-package desingpatterns.factorymethod.estrutura.products;
+package factorymethod.estrutura.products;
 
 public class ConcreteProductA implements Product {
 	@Override

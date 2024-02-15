@@ -1,7 +1,7 @@
-package desingpatterns.factorymethod.estrutura.creats;
+package factorymethod.estrutura.creats;
 
-import desingpatterns.factorymethod.estrutura.products.ConcreteProductA;
-import desingpatterns.factorymethod.estrutura.products.Product;
+import factorymethod.estrutura.products.ConcreteProductA;
+import factorymethod.estrutura.products.Product;
 
 public class ConcreteCreateA extends Create {
 	@Override
